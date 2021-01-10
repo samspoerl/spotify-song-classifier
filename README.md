@@ -5,7 +5,7 @@ Because the code calls the API directly each time, there is no input data file. 
 
 ## Getting Started
 
-In order to call Spotify's Web API, you will need a Spotify account. You can login or sign up for a free account here. Once in your Developer Dashboard, create an app and copy and paste your Client ID and Client Secret into the first module under "Data Collection" in spotify.ipynb.
+In order to call Spotify's Web API, you will need a Spotify account. You can login or sign up for a free account [here](https://developer.spotify.com/dashboard/). Once in your Developer Dashboard, create an app and copy and paste your Client ID and Client Secret into the first module under "Data Collection" in spotify.ipynb.
 
 ## Libraries
 
